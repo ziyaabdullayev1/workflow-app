@@ -221,17 +221,7 @@ If you have any questions or need help, please:
 
 ## 🔮 Roadmap
 
-### Upcoming Features
-- [ ] Real workflow execution engine
-- [ ] Database connectivity nodes
-- [ ] Webhook triggers
-- [ ] Scheduled workflow execution
-- [ ] Collaboration features
-- [ ] Workflow templates library
-- [ ] Performance monitoring
-- [ ] Custom node SDK
-- [ ] Cloud deployment options
-- [ ] Mobile responsive design improvements
+
 
 ---
 
